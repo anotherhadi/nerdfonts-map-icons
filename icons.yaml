@@ -1,0 +1,435 @@
+# This is the YAML file containing a list of NerdFont icons for various applications and programs.
+
+# Each entry represents an icon for an application.
+icons:
+  - name: "Discord"  # The name of the application
+    desktop_icon_name: "discord"  # The icon name as found in the .desktop file (optional)
+    icon: ""  # The NerdFont icon code for Discord
+    tags: # optional tags
+      - Communication
+
+  - name: "Firefox"
+    desktop_icon_name: "firefox"
+    icon: ""
+    tags:
+      - Browser
+
+  - name: "Chrome"
+    desktop_icon_name: "google-chrome"
+    icon: ""
+    tags:
+      - Browser
+
+  - name: "Brave"
+    desktop_icon_name: "brave"
+    icon: ""
+    tags:
+      - Browser
+
+  - name: "VS Code"
+    desktop_icon_name: "code"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "Neovim"
+    desktop_icon_name: "nvim"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "IntelliJ IDEA"
+    desktop_icon_name: "idea"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "PyCharm"
+    desktop_icon_name: "pycharm"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "Android Studio"
+    desktop_icon_name: "android-studio"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "Spotify"
+    desktop_icon_name: "spotify"
+    icon: ""
+    tags:
+      - Music
+
+  - name: "VLC"
+    desktop_icon_name: "vlc"
+    icon: ""
+    tags:
+      - Media
+
+  - name: "GIMP"
+    desktop_icon_name: "gimp"
+    icon: ""
+    tags:
+      - Graphics
+
+  - name: "Telegram"
+    desktop_icon_name: "telegram"
+    icon: ""
+    tags:
+      - Communication
+
+  - name: "Thunderbird"
+    desktop_icon_name: "thunderbird"
+    icon: ""
+    tags:
+      - Communication
+
+  - name: "Slack"
+    desktop_icon_name: "slack"
+    icon: ""
+    tags:
+      - Communication
+
+  - name: "Zoom"
+    desktop_icon_name: "zoom"
+    icon: ""
+    tags:
+      - Communication
+
+  - name: "Steam"
+    desktop_icon_name: "steam"
+    icon: ""
+    tags:
+      - Gaming
+
+  - name: "Lutris"
+    desktop_icon_name: "lutris"
+    icon: ""
+    tags:
+      - Gaming
+
+  - name: "OBS Studio"
+    desktop_icon_name: "obs"
+    icon: ""
+    tags:
+      - Streaming
+
+  - name: "LibreOffice"
+    desktop_icon_name: "libreoffice"
+    icon: ""
+    tags:
+      - Productivity
+
+  - name: "FileZilla"
+    desktop_icon_name: "filezilla"
+    icon: ""
+    tags:
+      - Networking
+
+  - name: "qBittorrent"
+    desktop_icon_name: "qbittorrent"
+    icon: ""
+    tags:
+      - Networking
+
+  - name: "VirtualBox"
+    desktop_icon_name: "virtualbox"
+    icon: ""
+    tags:
+      - Virtualization
+
+  - name: "Docker"
+    desktop_icon_name: "docker"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "Kdenlive"
+    desktop_icon_name: "kdenlive"
+    icon: ""
+    tags:
+      - Video Editing
+
+  - name: "Microsoft Edge"
+    desktop_icon_name: "microsoft-edge"
+    icon: "󰇩"
+    tags:
+      - Browser
+
+  - name: "Chromium"
+    desktop_icon_name: "chromium"
+    icon: ""
+    tags:
+      - Browser
+
+  - name: "Opera"
+    desktop_icon_name: "opera"
+    icon: ""
+    tags:
+      - Browser
+
+  - name: "Vivaldi"
+    desktop_icon_name: "vivaldi"
+    icon: "󰖟"
+    tags:
+      - Browser
+
+  - name: "Tor Browser"
+    desktop_icon_name: "tor-browser"
+    icon: ""
+    tags:
+      - Browser
+
+  - name: "Kitty"
+    desktop_icon_name: "kitty"
+    icon: "󰄛"
+    tags:
+      - Terminal
+
+  - name: "GNOME Terminal"
+    desktop_icon_name: "gnome-terminal"
+    icon: ""
+    tags:
+      - Terminal
+
+  - name: "Konsole"
+    desktop_icon_name: "konsole"
+    icon: ""
+    tags:
+      - Terminal
+
+  - name: "Alacritty"
+    desktop_icon_name: "alacritty"
+    icon: ""
+    tags:
+      - Terminal
+
+  - name: "WezTerm"
+    desktop_icon_name: "wezterm"
+    icon: ""
+    tags:
+      - Terminal
+
+  - name: "Foot"
+    desktop_icon_name: "foot"
+    icon: "󰽒"
+    tags:
+      - Terminal
+
+  - name: "Tilix"
+    desktop_icon_name: "tilix"
+    icon: ""
+    tags:
+      - Terminal
+
+  - name: "XTerm"
+    desktop_icon_name: "xterm"
+    icon: ""
+    tags:
+      - Terminal
+
+  - name: "URxvt"
+    desktop_icon_name: "urxvt"
+    icon: ""
+    tags:
+      - Terminal
+
+  - name: "Ghostty"
+    desktop_icon_name: "com.mitchellh.ghostty"
+    icon: "󰊠"
+    tags:
+      - Terminal
+
+  - name: "Sublime Text"
+    desktop_icon_name: "sublime-text"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "Atom"
+    desktop_icon_name: "atom"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "WebStorm"
+    desktop_icon_name: "jetbrains-webstorm"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "PhpStorm"
+    desktop_icon_name: "jetbrains-phpstorm"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "Eclipse"
+    desktop_icon_name: "eclipse"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "NetBeans"
+    desktop_icon_name: "netbeans"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "Emacs"
+    desktop_icon_name: "emacs"
+    icon: ""
+    tags:
+      - Development
+
+  - name: "Obsidian"
+    desktop_icon_name: "obsidian"
+    icon: "󱓧"
+    tags:
+      - Notes
+
+  - name: "Rofi"
+    desktop_icon_name: "rofi"
+    icon: ""
+    tags:
+      - Launcher
+
+  - name: "Telegram Desktop"
+    desktop_icon_name: "telegram-desktop"
+    icon: ""
+    tags:
+      - Communication
+
+  - name: "WhatsApp"
+    desktop_icon_name: "whatsapp"
+    icon: "󰖣"
+    tags:
+      - Communication
+
+  - name: "Microsoft Teams"
+    desktop_icon_name: "teams"
+    icon: "󰊻"
+    tags:
+      - Communication
+
+  - name: "Skype"
+    desktop_icon_name: "skype"
+    icon: "󰒯"
+    tags:
+      - Communication
+
+  - name: "Dolphin"
+    desktop_icon_name: "org.kde.dolphin"
+    icon: ""
+    tags:
+      - File Manager
+
+  - name: "Nautilus"
+    desktop_icon_name: "nautilus"
+    icon: "󰝰"
+    tags:
+      - File Manager
+
+  - name: "Thunar"
+    desktop_icon_name: "thunar"
+    icon: "󰝰"
+    tags:
+      - File Manager
+
+  - name: "PCManFM"
+    desktop_icon_name: "pcmanfm"
+    icon: "󰝰"
+    tags:
+      - File Manager
+
+  - name: "Nemo"
+    desktop_icon_name: "nemo"
+    icon: "󰝰"
+    tags:
+      - File Manager
+
+  - name: "Ranger"
+    desktop_icon_name: "ranger"
+    icon: "󰝰"
+    tags:
+      - File Manager
+
+  - name: "Double Commander"
+    desktop_icon_name: "doublecmd"
+    icon: "󰝰"
+    tags:
+      - File Manager
+
+  - name: "Krusader"
+    desktop_icon_name: "krusader"
+    icon: "󰝰"
+    tags:
+      - File Manager
+
+  - name: "MPV"
+    desktop_icon_name: "mpv"
+    icon: ""
+    tags:
+      - Media
+
+  - name: "Rhythmbox"
+    desktop_icon_name: "rhythmbox"
+    icon: "󰓃"
+    tags:
+      - Music
+
+  - name: "Inkscape"
+    desktop_icon_name: "inkscape"
+    icon: ""
+    tags:
+      - Graphics
+
+  - name: "Krita"
+    desktop_icon_name: "krita"
+    icon: ""
+    tags:
+      - Graphics
+
+  - name: "Heroic Games Launcher"
+    desktop_icon_name: "heroic"
+    icon: "󰺵"
+    tags:
+      - Gaming
+
+  - name: "Minecraft"
+    desktop_icon_name: "minecraft"
+    icon: "󰍳"
+    tags:
+      - Gaming
+
+  - name: "CS:GO"
+    desktop_icon_name: "csgo"
+    icon: "󰺵"
+    tags:
+      - Gaming
+
+  - name: "Dota 2"
+    desktop_icon_name: "dota2"
+    icon: "󰺵"
+    tags:
+      - Gaming
+
+  - name: "Evernote"
+    desktop_icon_name: "evernote"
+    icon: ""
+    tags:
+      - Notes
+
+  - name: "Sioyek"
+    desktop_icon_name: "sioyek"
+    icon: ""
+    tags:
+      - PDF Viewer
+
+  - name: "Dropbox"
+    desktop_icon_name: "dropbox"
+    icon: "󰇣"
+    tags:
+      - Cloud Storage
