@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	icons := icons.GetIcons().Icons
+	icons := icons.GetAllIcons()
 
 	fmt.Println(icons)
 }
